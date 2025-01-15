@@ -9,9 +9,9 @@ import middle.RemoteMiddleFactory;
 
 import javax.swing.*;
 
-/**
- * The standalone Customer Client
- */
+// Learning git - DKP
+
+/** The standalone Customer Client */
 public class CustomerClient
 {
   public static void main (String args[])
