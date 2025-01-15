@@ -11,7 +11,7 @@ import javax.swing.*;
 
 // Learning git - DKP
 
-/** The standalone Customer Client */
+
 public class CustomerClient
 {
   public static void main (String args[])
